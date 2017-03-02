@@ -18,4 +18,4 @@ You can tweak those and more settings in the virtualbox settings panel !
 - Login : root
   Password : root
 - Then open a terminal and type blinux-setup, fill the fields
-- Reboot and login to freshly created user !
+- Reboot and login to the freshly created user and you're done!
