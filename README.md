@@ -3,6 +3,8 @@ Oracle VirtualBox Virtual Machine BLinux (Epitech dump)
 
 **Made following Jordan Demaison tutorial.**
 
+# This is the old dump of Epitech (2016), you can get the new one here : https://github.com/QTimort/Epitech-Dump-2017
+
 # VM configuration
 swap: 256mo</br>
 partition size: 12go</br>
